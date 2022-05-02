@@ -12,6 +12,7 @@ Python FPS game
 ### Développeurs
 `Spite` est développé par une équipe de développement. Les actuels développeurs sont :
  - BlackGamer
+
 *Mais la team recrute ! Pour être recruté(e), veuillez contacter BlackGamer#9111 sur Discord (https://www.discord.com).*
 
 #### Chef de projet
